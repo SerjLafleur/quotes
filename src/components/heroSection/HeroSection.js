@@ -15,7 +15,7 @@ function Herosection() {
                     <Quotes setResultData={setResultData} />
 
                 </div>
-                <div>{resultData}</div>
+                <div className='row'>{resultData}</div>
             </div>
         </>
     )
