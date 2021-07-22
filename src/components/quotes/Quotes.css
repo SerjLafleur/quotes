@@ -1,0 +1,5 @@
+.container-quotes{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}

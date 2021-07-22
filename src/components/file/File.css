@@ -1,0 +1,22 @@
+.container-form{
+    margin-top: 20px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
+
+input[type="file"]{
+  display: none;
+}
+.labelFile{
+  color: white;
+  background-color: #f00946;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
